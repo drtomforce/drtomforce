@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drtomforce
 - 👀 I’m interested in medical software, research, analysis
 - 🌱 I’m currently learning Python, Java, Android Studio, SAS EG
-- 💞️ I’m looking to collaborate on medical software
+- 💞️ I’m would like to collaborate on medical software
 - 📫 How to reach me: www.accumbens.se
 
 <!---
